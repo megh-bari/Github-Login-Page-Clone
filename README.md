@@ -9,6 +9,16 @@
 1. Clone the repository:
 <pre>
     <code id="your-code-block-id">
-  
+  https://github.com/megh-bari/Github-Login-Page-Clone.git
     </code>
 </pre>
+
+## Connect with Me 🤝
+Let's connect! Find me on
+- Mail: meghbari01@gamail.com
+  
+Find me on social media
+- **Instagram:** [@spidey._.01](https://www.instagram.com/spidey._.01/)
+- **Twitter:** [@megh_bari](https://twitter.com/megh_bari/)
+
+## Happy coding!
