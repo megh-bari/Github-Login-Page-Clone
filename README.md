@@ -16,7 +16,10 @@ This project is a simple GitHub Login Form page that allows users to log in usin
 </pre>
 2. Navigate to the Project Directory:
 <pre>
-  cd Github-Login-Page-Clone
+    <code>
+ cd Github-Login-Page-Clone
+    </code>
+ 
 </pre>
 
 
