@@ -1,5 +1,7 @@
 ## Github Login Page
 
+This project is a simple GitHub Login Form page that allows users to log in using their GitHub credentials.
+
 ## Preview:
 
 ![github-preview](https://github.com/megh-bari/github-login-form-clone/assets/142393952/6de20684-941c-4454-bae4-9800e5e17597)
